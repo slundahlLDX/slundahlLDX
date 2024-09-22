@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LDxReportMgr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0379066c21d20594f019dd1e443644c7113f51fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("LDxReportMgr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LDxReportMgr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

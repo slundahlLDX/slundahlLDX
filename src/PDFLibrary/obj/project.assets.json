@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\LongevityDx\\LDxReportMgr\\PDFLibrary\\PDFLibrary.csproj",
+      "projectUniqueName": "D:\\OneDriveFolders\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\LDxReportMgr\\src\\PDFLibrary\\PDFLibrary.csproj",
       "projectName": "PDFLibrary",
-      "projectPath": "D:\\Projects\\LongevityDx\\LDxReportMgr\\PDFLibrary\\PDFLibrary.csproj",
+      "projectPath": "D:\\OneDriveFolders\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\LDxReportMgr\\src\\PDFLibrary\\PDFLibrary.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\LongevityDx\\LDxReportMgr\\PDFLibrary\\obj\\",
+      "outputPath": "D:\\OneDriveFolders\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\LDxReportMgr\\src\\PDFLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -5220,11 +5220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\LongevityDx\\LDxReportMgr\\LDxReportMgr\\LDxReportMgr.csproj",
+      "projectUniqueName": "D:\\OneDriveFolders\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\LDxReportMgr\\src\\LDxReportMgr\\LDxReportMgr.csproj",
       "projectName": "LDxReportMgr",
-      "projectPath": "D:\\Projects\\LongevityDx\\LDxReportMgr\\LDxReportMgr\\LDxReportMgr.csproj",
+      "projectPath": "D:\\OneDriveFolders\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\LDxReportMgr\\src\\LDxReportMgr\\LDxReportMgr.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\LongevityDx\\LDxReportMgr\\LDxReportMgr\\obj\\",
+      "outputPath": "D:\\OneDriveFolders\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\LDxReportMgr\\src\\LDxReportMgr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
